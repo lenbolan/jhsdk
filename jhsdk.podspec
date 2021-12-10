@@ -135,15 +135,15 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
-  s.dependency 'Masonry', '~> 1.1.0'
-  s.dependency 'AFNetworking', '~> 4.0.1'
-  s.dependency 'MJExtension', '~> 3.3.0'
-  s.dependency 'SDWebImage', '~> 5.12.1'
-  s.dependency 'MBProgressHUD', '~> 1.2.0'
-  s.dependency 'IQKeyboardManager', '~> 6.5.6'
-  s.dependency 'TZImagePickerController', '~> 3.6.6'
-  s.dependency 'GDTMobSDK', '~> 4.13.22'
-  s.dependency 'Ads-CN', '~> 4.0.0.5'
+  spec.dependency 'Masonry', '~> 1.1.0'
+  spec.dependency 'AFNetworking', '~> 4.0.1'
+  spec.dependency 'MJExtension', '~> 3.3.0'
+  spec.dependency 'SDWebImage', '~> 5.12.1'
+  spec.dependency 'MBProgressHUD', '~> 1.2.0'
+  spec.dependency 'IQKeyboardManager', '~> 6.5.6'
+  spec.dependency 'TZImagePickerController', '~> 3.6.6'
+  spec.dependency 'GDTMobSDK', '~> 4.13.22'
+  spec.dependency 'Ads-CN', '~> 4.0.0.5'
 
   spec.ios.vendored_frameworks = "Framework/jhsdk.framework"
 
