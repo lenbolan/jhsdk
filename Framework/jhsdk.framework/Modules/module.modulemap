@@ -1,0 +1,6 @@
+framework module jhsdk {
+  umbrella header "jhsdk.h"
+
+  export *
+  module * { export * }
+}
