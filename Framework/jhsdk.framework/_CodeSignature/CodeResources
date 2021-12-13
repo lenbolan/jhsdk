@@ -6,11 +6,11 @@
 	<dict>
 		<key>BUAdSDK.bundle/Assets.car</key>
 		<data>
-		RJVMBAxL8E+GBut8qqSqhruxywc=
+		RgYbEG9e4dPk6bS3xsBIW+0VfmY=
 		</data>
 		<key>BUAdSDK.bundle/Info.plist</key>
 		<data>
-		7AY/O1LVGErp8TBZQ7N3XnYJzxA=
+		4qSAcQub1BHEkASZ3zSwFSRNXiA=
 		</data>
 		<key>BUAdSDK.bundle/ar.lproj/BULanguage.strings</key>
 		<dict>
@@ -32,6 +32,10 @@
 		<key>BUAdSDK.bundle/bu_logo@3x.data</key>
 		<data>
 		W2jGO8ru7N6WDPaAizhoT5zVVF4=
+		</data>
+		<key>BUAdSDK.bundle/bu_slienceAudio.aiff</key>
+		<data>
+		v74jzRIcosmBtYPI2ZcLbyHgbog=
 		</data>
 		<key>BUAdSDK.bundle/de.lproj/BULanguage.strings</key>
 		<dict>
@@ -143,7 +147,7 @@
 		</dict>
 		<key>BUAdSDK.bundle/version.txt</key>
 		<data>
-		DI/Jt9MIo6AseMnAsocPUA5miXU=
+		uhoP5Ga7xzIaf2xj5ZLw49Z2ibc=
 		</data>
 		<key>BUAdSDK.bundle/vi.lproj/BULanguage.strings</key>
 		<dict>
@@ -174,7 +178,7 @@
 		</dict>
 		<key>Headers/AppManager.h</key>
 		<data>
-		0b0vmEQXoahKC44JghOpmRAAlMU=
+		X4xRiSJqtgpa651Termg0noD2/A=
 		</data>
 		<key>Headers/Reachability.h</key>
 		<data>
@@ -295,22 +299,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RJVMBAxL8E+GBut8qqSqhruxywc=
+			RgYbEG9e4dPk6bS3xsBIW+0VfmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			Oi+pV/xQ6fabzihQG9PxY/Y+wlvHL8KaVHtiHDoEjok=
+			lJdvb2bi3GFV34ubX2bI3GISqMX3pAe6K3mTifZ+n64=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7AY/O1LVGErp8TBZQ7N3XnYJzxA=
+			4qSAcQub1BHEkASZ3zSwFSRNXiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			CaOmo2xl3PFuXRPFv4EVguNy7JFQQoikxh3+DGaD8QI=
+			lHMk5scNpYeFfr+K1f57GpGbzT/cp1SCtyqOtOUG3Xc=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/ar.lproj/BULanguage.strings</key>
@@ -357,6 +361,17 @@
 			<key>hash2</key>
 			<data>
 			ga6+snmS16+p0gfOTOTeZfA8E5NRQEMICArPOz0Rihc=
+			</data>
+		</dict>
+		<key>BUAdSDK.bundle/bu_slienceAudio.aiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			v74jzRIcosmBtYPI2ZcLbyHgbog=
+			</data>
+			<key>hash2</key>
+			<data>
+			DWsomZiPM/47JpKBs9w/AAdB4pofnAkaiDL01VZGjDo=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/de.lproj/BULanguage.strings</key>
@@ -519,11 +534,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DI/Jt9MIo6AseMnAsocPUA5miXU=
+			uhoP5Ga7xzIaf2xj5ZLw49Z2ibc=
 			</data>
 			<key>hash2</key>
 			<data>
-			UzAk2s8XFPtRybYLwevCqILEwEZQxs828iTkyHQvGLw=
+			JMaJ69bxkPVIoDG9xf5SMvYARaubaXFEunKfhkzbpEA=
 			</data>
 		</dict>
 		<key>BUAdSDK.bundle/vi.lproj/BULanguage.strings</key>
@@ -569,11 +584,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0b0vmEQXoahKC44JghOpmRAAlMU=
+			X4xRiSJqtgpa651Termg0noD2/A=
 			</data>
 			<key>hash2</key>
 			<data>
-			gV3UX0rrKA6B8sHZb90GxOHy2EoaEcd99t7H14EJR2M=
+			fR2SiBk4iqvGH3jBVOdkJQdqu+Ue5FKtuWH1eHPCkvA=
 			</data>
 		</dict>
 		<key>Headers/Reachability.h</key>
