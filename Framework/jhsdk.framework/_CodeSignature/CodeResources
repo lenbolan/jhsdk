@@ -178,7 +178,11 @@
 		</dict>
 		<key>Headers/AppManager.h</key>
 		<data>
-		X4xRiSJqtgpa651Termg0noD2/A=
+		c+Q1NT+oqgmi0D9cPopD3hzT3cY=
+		</data>
+		<key>Headers/AppReport.h</key>
+		<data>
+		Wd0EwFn1S7RshmIwr1N2QLpsfKA=
 		</data>
 		<key>Headers/Reachability.h</key>
 		<data>
@@ -186,7 +190,7 @@
 		</data>
 		<key>Headers/jhsdk.h</key>
 		<data>
-		6k68BWBbJ27bOzKBBde0BdF4ZGk=
+		qd7Hit2ej0OwrS0yWBMVLf8GfQ0=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -206,7 +210,11 @@
 		</data>
 		<key>jhres.bundle/Info.plist</key>
 		<data>
-		g9b0lWsnwE5ha7rEQYFB1yc2weY=
+		dL+6sYP8D/qfJT+rHyDJBEGNCRY=
+		</data>
+		<key>jhres.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		BRnlRS6DX/3QLORP368IDRtAIlY=
 		</data>
 		<key>jhres.bundle/balance@1x.png</key>
 		<data>
@@ -232,13 +240,17 @@
 		<data>
 		27mKxnrR6TvtAxAOOxAW/E0iyEg=
 		</data>
+		<key>jhres.bundle/close.png</key>
+		<data>
+		pjHcIuV4QOJbquKWf77S9+MTodU=
+		</data>
 		<key>jhres.bundle/dui.png</key>
 		<data>
 		5vTt94nZM6ZZzq/gwOAXZN3JlPI=
 		</data>
 		<key>jhres.bundle/jhres</key>
 		<data>
-		eToMlhxMXm0cMfc68Hj8K0tsyYI=
+		iB8hdwvWCPGN/CcU+mL7jZXI9FM=
 		</data>
 		<key>jhres.bundle/jia.png</key>
 		<data>
@@ -584,11 +596,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X4xRiSJqtgpa651Termg0noD2/A=
+			c+Q1NT+oqgmi0D9cPopD3hzT3cY=
 			</data>
 			<key>hash2</key>
 			<data>
-			fR2SiBk4iqvGH3jBVOdkJQdqu+Ue5FKtuWH1eHPCkvA=
+			AQDTqg5/tndnNdR45vochSeRwjrSAo2kjGgVlAiUm6c=
+			</data>
+		</dict>
+		<key>Headers/AppReport.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Wd0EwFn1S7RshmIwr1N2QLpsfKA=
+			</data>
+			<key>hash2</key>
+			<data>
+			8mNYGMYqZXp1amO54W5FtDmyIuGdVIJ7tThcOSi8pD8=
 			</data>
 		</dict>
 		<key>Headers/Reachability.h</key>
@@ -606,11 +629,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6k68BWBbJ27bOzKBBde0BdF4ZGk=
+			qd7Hit2ej0OwrS0yWBMVLf8GfQ0=
 			</data>
 			<key>hash2</key>
 			<data>
-			r/BJCsHjOmxykArUC+Ry69BfEthAORxaxCws1hnE0hk=
+			xiGq0UIJpfGMoPFvLGa0uQmoh/MqOWRrBo8z1pI2+zU=
 			</data>
 		</dict>
 		<key>LICENSE</key>
@@ -650,11 +673,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g9b0lWsnwE5ha7rEQYFB1yc2weY=
+			dL+6sYP8D/qfJT+rHyDJBEGNCRY=
 			</data>
 			<key>hash2</key>
 			<data>
-			+hOpvD7lZQ+UdWJPpARMMG+v2SY9BBy5Lpar7y4irxA=
+			a7cfpZE4GYA3JoYbHa/mcMiLClgd8QahBgD38DAbQm0=
+			</data>
+		</dict>
+		<key>jhres.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BRnlRS6DX/3QLORP368IDRtAIlY=
+			</data>
+			<key>hash2</key>
+			<data>
+			fQn6dnwWWATQEru/UEEWqBMUDplOA0CadQAt9kMLOy0=
 			</data>
 		</dict>
 		<key>jhres.bundle/balance@1x.png</key>
@@ -723,6 +757,17 @@
 			qjO1KERy0uh+YawExexR2N2soVbNl94GcETxRzr+D6U=
 			</data>
 		</dict>
+		<key>jhres.bundle/close.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pjHcIuV4QOJbquKWf77S9+MTodU=
+			</data>
+			<key>hash2</key>
+			<data>
+			LC7TaqNTLGpdYXfNYpUqzkDMsin3oaEKxN5pTX719X8=
+			</data>
+		</dict>
 		<key>jhres.bundle/dui.png</key>
 		<dict>
 			<key>hash</key>
@@ -738,11 +783,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eToMlhxMXm0cMfc68Hj8K0tsyYI=
+			iB8hdwvWCPGN/CcU+mL7jZXI9FM=
 			</data>
 			<key>hash2</key>
 			<data>
-			2SnyH01kVgsv53FmoRERTSipV23FiLJaTxPGgBhiXQc=
+			PEMV8ZEtCy/zh+GCaRouVxF9RQQOkgE/CiOmqKEXo2U=
 			</data>
 		</dict>
 		<key>jhres.bundle/jia.png</key>

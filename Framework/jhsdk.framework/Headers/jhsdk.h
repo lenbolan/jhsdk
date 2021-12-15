@@ -17,3 +17,4 @@ FOUNDATION_EXPORT const unsigned char jhsdkVersionString[];
 
 #import <jhsdk/Reachability.h>
 #import <jhsdk/AppManager.h>
+#import <jhsdk/AppReport.h>
