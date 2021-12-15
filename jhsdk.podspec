@@ -16,8 +16,8 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "jhsdk"
-  spec.version      = "1.0.2"
-  spec.summary      = "A short description of jhsdk."
+  spec.version      = "1.0.3"
+  spec.summary      = "A simple and easy-to-use aggregation promotion SDK, including Youliang collection and pangolin advertising."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  juhe guanggao sdk.
+  A simple and easy-to-use aggregation promotion SDK, including Youliang collection and pangolin advertising. Simple access and integration.
                    DESC
 
   spec.homepage     = "https://github.com/lenbolan/jhsdk"
