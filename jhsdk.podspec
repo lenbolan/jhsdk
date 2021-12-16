@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "jhsdk"
-  spec.version      = "1.0.3"
+  spec.version      = "1.0.4"
   spec.summary      = "A simple and easy-to-use aggregation promotion SDK, including Youliang collection and pangolin advertising."
 
   # This description is used to generate tags and improve search results.

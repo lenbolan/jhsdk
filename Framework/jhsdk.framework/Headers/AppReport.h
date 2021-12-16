@@ -64,7 +64,7 @@ typedef struct {
 
 
 /// 生成广告ID
-/// @param adType 广告类型
+/// @param adType 广告类型 开屏=1，banner=2，信息流=3，激励视频=4
 + (NSString *)createAdId:(int)adType;
 
 /// 获取手机设备相关数据
