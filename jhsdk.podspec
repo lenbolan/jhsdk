@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "jhsdk"
-  spec.version      = "1.0.5"
+  spec.version      = "1.1.1"
   spec.summary      = "A simple and easy-to-use aggregation promotion SDK, including Youliang collection and pangolin advertising."
 
   # This description is used to generate tags and improve search results.
@@ -137,15 +137,15 @@ Pod::Spec.new do |spec|
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
 
-  spec.dependency 'Masonry', '~> 1.1.0'
-  spec.dependency 'AFNetworking', '~> 4.0.1'
-  spec.dependency 'MJExtension', '~> 3.3.0'
-  spec.dependency 'SDWebImage', '~> 5.12.1'
-  spec.dependency 'MBProgressHUD', '~> 1.2.0'
-  spec.dependency 'IQKeyboardManager', '~> 6.5.6'
-  spec.dependency 'TZImagePickerController', '~> 3.6.6'
-  spec.dependency 'GDTMobSDK', '~> 4.13.22'
-  spec.dependency 'Ads-CN', '~> 4.0.0.5'
+  spec.dependency 'Masonry'#, '~> 1.1.0'
+  spec.dependency 'AFNetworking'#, '~> 4.0.1'
+  spec.dependency 'MJExtension'#, '~> 3.3.0'
+  spec.dependency 'SDWebImage'#, '~> 5.12.1'
+  spec.dependency 'MBProgressHUD'#, '~> 1.2.0'
+  spec.dependency 'IQKeyboardManager'#, '~> 6.5.6'
+  spec.dependency 'TZImagePickerController'#, '~> 3.6.6'
+  spec.dependency 'GDTMobSDK'#, '~> 4.13.22'
+  spec.dependency 'Ads-CN'#, '~> 4.0.0.5'
 
   spec.ios.vendored_frameworks = "Framework/jhsdk.framework"
 

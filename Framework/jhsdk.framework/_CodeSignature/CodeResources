@@ -178,7 +178,7 @@
 		</dict>
 		<key>Headers/AppManager.h</key>
 		<data>
-		i0XJNUtONFl8FoyRECtYfm2Gcpg=
+		4Xx84zHmJvgVVm4APppx/8mgvyg=
 		</data>
 		<key>Headers/AppReport.h</key>
 		<data>
@@ -210,19 +210,11 @@
 		</data>
 		<key>jhres.bundle/Info.plist</key>
 		<data>
-		dL+6sYP8D/qfJT+rHyDJBEGNCRY=
-		</data>
-		<key>jhres.bundle/_CodeSignature/CodeResources</key>
-		<data>
-		BRnlRS6DX/3QLORP368IDRtAIlY=
+		g9b0lWsnwE5ha7rEQYFB1yc2weY=
 		</data>
 		<key>jhres.bundle/balance@1x.png</key>
 		<data>
 		FQa7rRRhHP2CNCK1m69L+gu5zwg=
-		</data>
-		<key>jhres.bundle/bg.png</key>
-		<data>
-		kLU0wi+rOzSz7/jtMsNjcNlGdo0=
 		</data>
 		<key>jhres.bundle/cell_icon_1@1x.png</key>
 		<data>
@@ -242,7 +234,7 @@
 		</data>
 		<key>jhres.bundle/close.png</key>
 		<data>
-		pjHcIuV4QOJbquKWf77S9+MTodU=
+		0bWG0MEqPUYCL+TjlduFKWoyL8U=
 		</data>
 		<key>jhres.bundle/dui.png</key>
 		<data>
@@ -250,7 +242,7 @@
 		</data>
 		<key>jhres.bundle/jhres</key>
 		<data>
-		iB8hdwvWCPGN/CcU+mL7jZXI9FM=
+		HOMek7UpOlfBUhooll1L693CnU4=
 		</data>
 		<key>jhres.bundle/jia.png</key>
 		<data>
@@ -596,11 +588,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i0XJNUtONFl8FoyRECtYfm2Gcpg=
+			4Xx84zHmJvgVVm4APppx/8mgvyg=
 			</data>
 			<key>hash2</key>
 			<data>
-			OfVk3UDLS61miNj441e+tqUPehEGKhbe1HhU7c3aiaI=
+			nBRPWL3+HsMERytWuskleEGYB1vXinzIJbwmZEVl9cc=
 			</data>
 		</dict>
 		<key>Headers/AppReport.h</key>
@@ -673,22 +665,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dL+6sYP8D/qfJT+rHyDJBEGNCRY=
+			g9b0lWsnwE5ha7rEQYFB1yc2weY=
 			</data>
 			<key>hash2</key>
 			<data>
-			a7cfpZE4GYA3JoYbHa/mcMiLClgd8QahBgD38DAbQm0=
-			</data>
-		</dict>
-		<key>jhres.bundle/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BRnlRS6DX/3QLORP368IDRtAIlY=
-			</data>
-			<key>hash2</key>
-			<data>
-			fQn6dnwWWATQEru/UEEWqBMUDplOA0CadQAt9kMLOy0=
+			+hOpvD7lZQ+UdWJPpARMMG+v2SY9BBy5Lpar7y4irxA=
 			</data>
 		</dict>
 		<key>jhres.bundle/balance@1x.png</key>
@@ -700,17 +681,6 @@
 			<key>hash2</key>
 			<data>
 			XIqm7CownYmNJgbPauwxGDSC0av5ITnOjt2vEF3+wFs=
-			</data>
-		</dict>
-		<key>jhres.bundle/bg.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kLU0wi+rOzSz7/jtMsNjcNlGdo0=
-			</data>
-			<key>hash2</key>
-			<data>
-			ocYkg/Pr1xs8eM+66oqL3L4hNwGbAertPdz6DTpgzL8=
 			</data>
 		</dict>
 		<key>jhres.bundle/cell_icon_1@1x.png</key>
@@ -761,11 +731,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pjHcIuV4QOJbquKWf77S9+MTodU=
+			0bWG0MEqPUYCL+TjlduFKWoyL8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			LC7TaqNTLGpdYXfNYpUqzkDMsin3oaEKxN5pTX719X8=
+			Kd+wFP/vG9srhDpscWWCZUp+xHnga8m/IaiOIGs5GKc=
 			</data>
 		</dict>
 		<key>jhres.bundle/dui.png</key>
@@ -783,11 +753,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iB8hdwvWCPGN/CcU+mL7jZXI9FM=
+			HOMek7UpOlfBUhooll1L693CnU4=
 			</data>
 			<key>hash2</key>
 			<data>
-			PEMV8ZEtCy/zh+GCaRouVxF9RQQOkgE/CiOmqKEXo2U=
+			wiKgycnXMxVsNBKUTlhS4u9ddrfjArkD3iWVboOyLtA=
 			</data>
 		</dict>
 		<key>jhres.bundle/jia.png</key>

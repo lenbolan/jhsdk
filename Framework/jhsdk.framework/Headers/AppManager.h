@@ -12,6 +12,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 // 是否开放所有功能，NO - 只开放登录和上传凭证
 static BOOL OPEN_FULL_ABILITY = NO;
+// 是否只登录，NO - 登录后进入推广页
+static BOOL IS_ONLY_LOGIN = NO;
 
 @interface AppManager : NSObject
 
@@ -40,6 +42,9 @@ static BOOL OPEN_FULL_ABILITY = NO;
 
 /// 是否为全功能开放
 +(BOOL)isFullAbility;
+
+/// 是否只登录
++(BOOL)isOnlyLogin;
 
 /// 是否打开日志输出
 /// @param flag YES=打开日志输出
