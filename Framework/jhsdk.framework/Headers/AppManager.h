@@ -10,10 +10,8 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-// 是否开放所有功能，NO - 只开放登录和上传凭证
-static BOOL OPEN_FULL_ABILITY = NO;
-// 是否只登录，NO - 登录后进入推广页
-static BOOL IS_ONLY_LOGIN = NO;
+// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
+static int NAVI_ID = -1;
 
 @interface AppManager : NSObject
 
@@ -26,25 +24,17 @@ static BOOL IS_ONLY_LOGIN = NO;
 
 /// 打开推广功能
 /// @param vc 当前UIViewController
-+(void)popup:(UIViewController *)vc;
-
-
-/// 打开登录窗口
-/// @param vc 当前UIViewController
-+(void)login:(UIViewController *)vc;
+/// @param naviId 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
++(void)popup:(UIViewController *)vc naviId:(int)naviId;
 
 /// 是否已登录
 +(BOOL)isLogin;
 
-/// 是否开放全功能
-/// @param flag YES=开放全功能，NO=只开放上传图片
-+(void)setFullAbility:(BOOL)flag;
+/// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
++(void)setNaviId:(int)naviId;
 
-/// 是否为全功能开放
-+(BOOL)isFullAbility;
-
-/// 是否只登录
-+(BOOL)isOnlyLogin;
+/// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
++(int)getNaviId;
 
 /// 是否打开日志输出
 /// @param flag YES=打开日志输出
