@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
+// 导航ID：-1=只登录；0=打开全部; 1=激励BU; 2=激励GDT; 3=上传凭证
 static int NAVI_ID = -1;
 
 @interface AppManager : NSObject
@@ -24,16 +24,16 @@ static int NAVI_ID = -1;
 
 /// 打开推广功能
 /// @param vc 当前UIViewController
-/// @param naviId 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
+/// @param naviId 导航ID：-1=只登录；0=打开全部; 1=激励BU; 2=激励GDT; 3=上传凭证
 +(void)popup:(UIViewController *)vc naviId:(int)naviId;
 
 /// 是否已登录
 +(BOOL)isLogin;
 
-/// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
+/// 设置导航ID：-1=只登录；0=打开全部; 1=激励BU; 2=激励GDT; 3=上传凭证
 +(void)setNaviId:(int)naviId;
 
-/// 打开窗口：-1=只登录；0=打开全部; 1=激励; 2=上传凭证
+/// 获取导航ID：-1=只登录；0=打开全部; 1=激励BU; 2=激励GDT; 3=上传凭证
 +(int)getNaviId;
 
 /// 是否打开日志输出

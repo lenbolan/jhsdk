@@ -178,7 +178,7 @@
 		</dict>
 		<key>Headers/AppManager.h</key>
 		<data>
-		qguhLUqRZDyRfKDS3BR/eIuratc=
+		VLT+TlhEkixStq2x738xdHxmWGU=
 		</data>
 		<key>Headers/AppReport.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>jhres.bundle/Info.plist</key>
 		<data>
-		g9b0lWsnwE5ha7rEQYFB1yc2weY=
+		ovubCV/4eZ1QANt6tSOOAF3IEoQ=
 		</data>
 		<key>jhres.bundle/balance@1x.png</key>
 		<data>
@@ -243,10 +243,6 @@
 		<key>jhres.bundle/dui.png</key>
 		<data>
 		5vTt94nZM6ZZzq/gwOAXZN3JlPI=
-		</data>
-		<key>jhres.bundle/jhres</key>
-		<data>
-		aBGKRGcmd1skgISBvR3DMNSdxvg=
 		</data>
 		<key>jhres.bundle/jia.png</key>
 		<data>
@@ -592,11 +588,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qguhLUqRZDyRfKDS3BR/eIuratc=
+			VLT+TlhEkixStq2x738xdHxmWGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			1QvfvVduACSg1igI4hgxpviWnZG+hXWuCjqDi1Tn4gM=
+			OOIIzQeImzy/xwGE8jWBZfdDMjAj5hCiWbFKLAl4rPg=
 			</data>
 		</dict>
 		<key>Headers/AppReport.h</key>
@@ -669,11 +665,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g9b0lWsnwE5ha7rEQYFB1yc2weY=
+			ovubCV/4eZ1QANt6tSOOAF3IEoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+hOpvD7lZQ+UdWJPpARMMG+v2SY9BBy5Lpar7y4irxA=
+			2xrusK9MqWrezwjkVGhjfB8uZPdl56nkO3boKyrynno=
 			</data>
 		</dict>
 		<key>jhres.bundle/balance@1x.png</key>
@@ -762,17 +758,6 @@
 			<key>hash2</key>
 			<data>
 			TV6lUSILv7gjVB73k87lMGIoY4PSo+dcDIkAQwFkCrI=
-			</data>
-		</dict>
-		<key>jhres.bundle/jhres</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aBGKRGcmd1skgISBvR3DMNSdxvg=
-			</data>
-			<key>hash2</key>
-			<data>
-			xpv2sl+VCBqdCPfhTncFl28zw+mjyjpA2Y+ovCEzUfU=
 			</data>
 		</dict>
 		<key>jhres.bundle/jia.png</key>
